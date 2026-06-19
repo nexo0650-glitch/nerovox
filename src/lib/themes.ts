@@ -69,31 +69,31 @@ export interface ThemeMeta {
 export const THEMES: ReadonlyArray<ThemeMeta> = [
   {
     id: "violet",
-    name: "Violet",
+    name: "Violeta",
     tagline: "O padrão — confiante, ligeiramente lúdico.",
     swatch: "oklch(0.526 0.247 293)",
   },
   {
     id: "emerald",
-    name: "Emerald",
+    name: "Esmeralda",
     tagline: "Focado no crescimento, remete à troca de mensagens sem copiar o verde do WhatsApp.",
     swatch: "oklch(0.62 0.16 162)",
   },
   {
     id: "cobalt",
-    name: "Cobalt",
+    name: "Cobalto",
     tagline: "Azul B2B-SaaS limpo — calmo e corporativo.",
     swatch: "oklch(0.585 0.2 254)",
   },
   {
     id: "amber",
-    name: "Amber",
+    name: "Âmbar",
     tagline: "Quente e amigável — ótimo para equipes de PMEs.",
     swatch: "oklch(0.745 0.16 65)",
   },
   {
     id: "rose",
-    name: "Rose",
+    name: "Rosa",
     tagline: "Ousado e moderno — D2C, economia de criadores, estilo de vida.",
     swatch: "oklch(0.645 0.22 16)",
   },
